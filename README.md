@@ -32,7 +32,9 @@ RideIn and Shuttle Clone App are co-developed with a partner and sold on CodeCan
 
 **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-**DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+**DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+ 
+**Cloud & Hosting:** ![AWS](https://img.shields.io/badge/AWS-FF9900?logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white) ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white) ![Rackspace](https://img.shields.io/badge/Rackspace-EE0000?logoColor=white)
 
 **Strengths:** real-time systems (WebSockets, queues, Redis), multi-tenancy, payments & billing, Filament admin panels, dispatch/geo logic.
 
