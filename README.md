@@ -17,8 +17,8 @@ I build and sell production-grade software: real-time dispatch systems, multi-te
 ## Open source
 
 - 🗓️ [**laravel-bs-eloquent**](https://github.com/dev1191/laravel-bs-eloquent): Bikram Sambat (Nepali) dates for Eloquent: casts, scopes, fiscal year, validation
-- 🧩 **filament-bs-eloquent** *(coming soon)*: Filament date picker, column and fiscal-year filter for BS dates
-- 🗺️ **laravel-terra-draw / filament-terra-draw** *(coming soon)*: map drawing field for Laravel & Filament
+- 🧩 [**filament-nepali-address**](https://github.com/dev1191/filament-nepali-address)*: A comprehensive Nepali address plugin for Filament (v4 & v5) providing cascading selects, searchable columns, filters, infolists, and validation.
+- 🗺️ [**Bhet-webrtc**](https://github.com/dev1191/Bhet-webrtc): Bhet (भेट): a small, self-hostable 1:1 WebRTC room
 
 ## Stack
 
