@@ -8,11 +8,12 @@ I build and sell production-grade software: real-time dispatch systems, multi-te
 
 | Product | What it is |
 |---|---|
+| 🚕 [**RideIn**](https://codecanyon.net/item/ridein-taxi-app-online-android-taxi-booking-app-with-admin-panel-driver-user-panel/38211654) | Taxi-booking platform on CodeCanyon: rider & driver Android apps, Laravel admin/dispatch panel, 18 payment gateways, driver subscription/commission models, scheduled rides, live heat maps |
 | 🚖 **Ouraride** | Ride-hailing platform: driver dispatch, real-time tracking, fare engine, admin & rider/driver apps |
 | 🏢 **TenantForge** | Laravel multi-tenant SaaS starter kit (billing, roles, tenant isolation) |
 | 📦 **Open source** | Laravel / Filament packages (see below) |
 
-
+RideIn is co-developed with a partner and sold on CodeCanyon. I build the **backend**: APIs, real-time layer, dispatch logic and admin panel.
 
 ## Open source
 
@@ -29,6 +30,7 @@ I build and sell production-grade software: real-time dispatch systems, multi-te
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Laravel Reverb](https://img.shields.io/badge/Laravel_Reverb-FF2D20?logo=laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 **Strengths:** real-time systems (WebSockets,Webrtc, queues, Redis), multi-tenancy, payments & billing, Filament admin panels, dispatch/geo logic.
