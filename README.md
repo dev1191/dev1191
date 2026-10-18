@@ -24,22 +24,15 @@ RideIn and Shuttle Clone App are co-developed with a partner and sold on CodeCan
 
 ## Stack
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/FilamentPHP-FDAE4B?logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
-![Laravel Reverb](https://img.shields.io/badge/Laravel_Reverb-FF2D20?logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+**Backend:** ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![Filament](https://img.shields.io/badge/FilamentPHP-FDAE4B?logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
+
+**Frontend:** ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
+
+**Real-time:** ![WebSockets](https://img.shields.io/badge/WebSockets-010101?logoColor=white) ![Laravel Reverb](https://img.shields.io/badge/Laravel_Reverb-FF2D20?logo=laravel&logoColor=white) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+
+**Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+
+**DevOps:** ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 **Strengths:** real-time systems (WebSockets, queues, Redis), multi-tenancy, payments & billing, Filament admin panels, dispatch/geo logic.
 
