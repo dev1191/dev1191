@@ -41,7 +41,7 @@ RideIn and Shuttle Clone App are co-developed with a partner and sold on CodeCan
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-**Strengths:** real-time systems (WebSockets, Webrtc, queues, Redis), multi-tenancy, payments & billing, Filament admin panels, dispatch/geo logic.
+**Strengths:** real-time systems (WebSockets, queues, Redis), multi-tenancy, payments & billing, Filament admin panels, dispatch/geo logic.
 
 ## Work with me
 
