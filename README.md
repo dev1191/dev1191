@@ -17,7 +17,7 @@ I build and sell production-grade software: real-time dispatch systems, multi-te
 ## Open source
 
 - 🗓️ [**laravel-bs-eloquent**](https://github.com/dev1191/laravel-bs-eloquent): Bikram Sambat (Nepali) dates for Eloquent: casts, scopes, fiscal year, validation
-- 🧩 [**filament-nepali-address**](https://github.com/dev1191/filament-nepali-address)*: A comprehensive Nepali address plugin for Filament (v4 & v5) providing cascading selects, searchable columns, filters, infolists, and validation.
+- 🧩 [**filament-nepali-address**](https://github.com/dev1191/filament-nepali-address): A comprehensive Nepali address plugin for Filament (v4 & v5) providing cascading selects, searchable columns, filters, infolists, and validation.
 - 🗺️ [**Bhet-webrtc**](https://github.com/dev1191/Bhet-webrtc): Bhet (भेट): a small, self-hostable 1:1 WebRTC room
 
 ## Stack
@@ -26,6 +26,8 @@ I build and sell production-grade software: real-time dispatch systems, multi-te
 ![Filament](https://img.shields.io/badge/FilamentPHP-FDAE4B?logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
