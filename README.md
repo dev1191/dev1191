@@ -10,7 +10,7 @@ I build and sell production-grade software: real-time dispatch systems, multi-te
 |---|---|
 | 🚕 [**RideIn**](https://codecanyon.net/item/ridein-taxi-app-online-android-taxi-booking-app-with-admin-panel-driver-user-panel/38211654) | Taxi-booking platform on CodeCanyon: rider & driver Android apps, Laravel admin/dispatch panel, 18 payment gateways, driver subscription/commission models, scheduled rides, live heat maps |
 | 🚌 [**Shuttle Clone App**](https://codecanyon.net/item/shuttle-clone-app-redbus-clone-android-app-with-admin-panel/38880217) | Commuter shuttle & bus-booking platform on CodeCanyon (MEVN stack): route/timetable management, seat selection, QR tickets, passes & wallet, live bus tracking, driver trip assignment |
-| 🚖 **Ouraride** | Ride-hailing platform: driver dispatch, real-time tracking, fare engine, admin & rider/driver apps |
+| 🚖 [**Ouraride**](https://ouraride.sourcemonster.in/admin/login) *(live demo · CodeCanyon review pending)* | Ride-hailing, airport-transfer and parcel-delivery platform on Laravel + Filament: driver dispatch, real-time tracking, fare engine, admin/dispatcher panel |
 | 🏢 **TenantForge** | Laravel multi-tenant SaaS starter kit (billing, roles, tenant isolation) |
 | 📦 **Open source** | Laravel / Filament packages (see below) |
 
@@ -41,7 +41,7 @@ RideIn and Shuttle Clone App are co-developed with a partner and sold on CodeCan
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-**Strengths:** real-time systems (WebSockets,Webrtc, queues, Redis), multi-tenancy, payments & billing, Filament admin panels, dispatch/geo logic.
+**Strengths:** real-time systems (WebSockets, Webrtc, queues, Redis), multi-tenancy, payments & billing, Filament admin panels, dispatch/geo logic.
 
 ## Work with me
 
