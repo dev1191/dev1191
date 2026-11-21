@@ -10,7 +10,7 @@ I build and sell production-grade software: real-time dispatch systems, multi-te
 |---|---|
 | 🚕 [**RideIn**](https://codecanyon.net/item/ridein-taxi-app-online-android-taxi-booking-app-with-admin-panel-driver-user-panel/38211654) | Taxi-booking platform on CodeCanyon: rider & driver Android apps, Laravel admin/dispatch panel, 18 payment gateways, driver subscription/commission models, scheduled rides, live heat maps |
 | 🚌 [**Shuttle Clone App**](https://codecanyon.net/item/shuttle-clone-app-redbus-clone-android-app-with-admin-panel/38880217) | Commuter shuttle & bus-booking platform on CodeCanyon (MEVN stack): route/timetable management, seat selection, QR tickets, passes & wallet, live bus tracking, driver trip assignment |
-| 🚖 [**Ouraride**](https://ouraride.sourcemonster.in/admin/login) *(live demo · CodeCanyon review pending)* | Ride-hailing, airport-transfer and parcel-delivery platform on Laravel + Filament: driver dispatch, real-time tracking, fare engine, admin/dispatcher panel |
+| 🚖 [**Ouraride**](https://ouraride.sourcemonster.in/admin/login) Ride-hailing, airport-transfer and parcel-delivery platform on Laravel + Filament: driver dispatch, real-time tracking, fare engine, admin/dispatcher panel |
 | 🏢 [**TenantForge**](https://github.com/dev1191/laravel_multi-tenant_saas_starter) | Laravel multi-tenant SaaS starter kit (billing, roles, tenant isolation) |
 | 📦 **Open source** | Laravel / Filament packages (see below) |
 
